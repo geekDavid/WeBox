@@ -11,7 +11,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private static final String TAG = "MainActivity";
-    private static final String TAG2 = "MainActivity";
-
 }
