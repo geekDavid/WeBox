@@ -13,6 +13,5 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
     private static final String TAG2 = "MainActivity";
-    private static final String TAG3 = "MainActivity";
 
 }
